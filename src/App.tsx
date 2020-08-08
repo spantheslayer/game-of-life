@@ -25,7 +25,7 @@ const App: React.FC = () => {
             key={`${i}-${k}`}
             onClick={() => {
               const newGrid = produce(grid, (gridCopy) => {
-                gridCopy[i][k] = 1;
+                gridCopy[i][k] = grid[i][k] ? 0 : 1;
               });
               setGrid(newGrid);
             }}

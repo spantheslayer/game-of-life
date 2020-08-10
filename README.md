@@ -23,4 +23,5 @@ At each step in time, the following transitions occur:
 
 ## Here's how the example patterns looks like :
 
-<img src="https://github.com/spantheslayer/game-of-life/blob/master/Example1.gif" width="40%" />
+- Toad
+  <img src="https://github.com/spantheslayer/game-of-life/blob/master/Example1.gif" width="40%" />

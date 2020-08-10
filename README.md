@@ -23,6 +23,10 @@ At each step in time, the following transitions occur:
 
 ## Here's how the example patterns looks like :
 
+- its a Toad
+
 <img src="https://github.com/spantheslayer/game-of-life/blob/master/Example1.gif" />
 
-- its a Toad
+- Glider
+
+<img src="https://github.com/spantheslayer/game-of-life/blob/master/Glider.gif" />

@@ -25,3 +25,7 @@ At each step in time, the following transitions occur:
 
 - Toad
   <img src="https://github.com/spantheslayer/game-of-life/blob/master/Example1.gif" width="40%" />
+
+  ***
+
+![Toad](https://github.com/spantheslayer/game-of-life/blob/master/Example1.gif)

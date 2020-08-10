@@ -1,8 +1,8 @@
 import React, { useState, useCallback, useRef } from "react";
 import produce from "immer";
 
-const numRows = 50;
-const numCols = 50;
+const numRows = 47;
+const numCols = 105;
 
 const operations = [
   [0, 1],
